@@ -1,0 +1,6 @@
+
+SQL Developer: https://jiripinkas.cz/sqldeveloper.zip
+
+server:   46.28.109.230
+username: aero
+password: aero
