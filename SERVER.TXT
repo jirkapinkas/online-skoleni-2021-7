@@ -1,6 +1,9 @@
 
 SQL Developer: https://jiripinkas.cz/sqldeveloper.zip
 
+https://adoptopenjdk.net/releases.html (stazeni Javy)
+https://www.oracle.com/tools/downloads/sqldev-downloads.html (vyzaduje ucet u Oracle!)
+
 server:   46.28.109.230
 username: aero
 password: aero
